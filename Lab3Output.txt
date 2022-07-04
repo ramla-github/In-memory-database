@@ -1,0 +1,158 @@
+Script started on Sun Oct 25 04:40:28 2020
+[?1034hbash-3.2$ bash Lab3.sh
+empty
+Usage: Enter a filename that isn't empty
+bash-3.2$ bash Lab3.sh 
+w doesntexist
+Usage: No File is given, enter a filename that exists and has data
+bash-3.2$ bash Lab3.sh
+words
+MENU
+--------
+1) Shell sort
+2) Perl sort
+3) Perl search
+4) Exit
+1
+Enter a filename for the new sorted file
+Shellsort
+bash-3.2$ cat < Shell [Ksort
+accomplish
+akbar
+ard
+arg
+avm
+baits
+battlestar
+bayswater
+behaving
+bidirectional
+bp
+bree
+clockwise
+constitutes
+costello
+energies
+faery
+fam
+frills
+gri
+handshake
+hoses
+joe
+klm
+llc
+mollige
+mopar
+ontologies
+pennies
+pheasant
+pillars
+pkt
+pools
+profoundly
+puede
+rad
+recovers
+rein
+sdb
+softened
+songwriting
+takeda
+techno
+traveler
+tubal
+uconn
+volvo
+wheelers
+wmds
+wtp
+bash-3.2$ bash Lab3.sh
+words
+MENU
+--------
+1) Shell sort
+2) Perl sort
+3) Perl search
+4) Exit
+2
+Enter a name for new sorted  file
+Perlsort
+bash-3.2$ cat < Perlsort
+accomplish
+akbar
+ard
+arg
+avm
+baits
+battlestar
+bayswater
+behaving
+bidirectional
+bp
+bree
+clockwise
+constitutes
+costello
+energies
+faery
+fam
+frills
+gri
+handshake
+hoses
+joe
+klm
+llc
+mollige
+mopar
+ontologies
+pennies
+pheasant
+pillars
+pkt
+pools
+profoundly
+puede
+rad
+recovers
+rein
+sdb
+softened
+songwriting
+takeda
+techno
+traveler
+tubal
+uconnvolvo
+wheelers
+wmds
+wtp
+bash-3.2$ bash Lab3.sh
+words
+MENU
+--------
+1) Shell sort
+2) Perl sort
+3) Perl search
+4) Exit
+3
+Enter a string to search for in the  file
+techno
+The string exists in the file and is on line 33
+bash-3.2$ bash Lab3.sh
+4
+Usage: No File is given, enter a filename that exists and has data
+bash-3.2$ bash Lab3.sh
+words
+MENU
+--------
+1) Shell sort
+2) Perl sort
+3) Perl search
+4) Exit
+4
+bash-3.2$ e[Kexit
+exit
+
+Script done on Sun Oct 25 04:42:23 2020
